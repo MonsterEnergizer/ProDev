@@ -40,7 +40,7 @@ export default function Home() {
 
         <div className="heroVisual" aria-label="Barber visual">
           <div className="heroFrame">
-            <Image src="/hero-haircut.jpg" alt="Barber haircut in Russell-stijl" fill priority sizes="(max-width: 900px) 90vw, 46vw" />
+            <Image src="/hero-haircut.svg" alt="Barber haircut in Russell-stijl" fill priority sizes="(max-width: 900px) 90vw, 46vw" />
             <div className="frameShade" />
             <div className="signature">R</div>
           </div>
@@ -71,12 +71,12 @@ export default function Home() {
 
         <div className="editorialGrid">
           <article className="editorialCard cardLarge">
-            <Image src="/interior.jpg" alt="Donkere premium barbershop sfeer" fill sizes="(max-width: 800px) 100vw, 60vw" />
+            <Image src="/interior.svg" alt="Donkere premium barbershop sfeer" fill sizes="(max-width: 800px) 100vw, 60vw" />
             <div className="cardOverlay" />
             <div className="cardCaption"><span>ATMOSFEER</span><strong>Dark. Warm. Personal.</strong></div>
           </article>
           <article className="editorialCard cardTall">
-            <Image src="/detail-cut.jpg" alt="Detail van een precisie haircut" fill sizes="(max-width: 800px) 100vw, 35vw" />
+            <Image src="/detail-cut.svg" alt="Detail van een precisie haircut" fill sizes="(max-width: 800px) 100vw, 35vw" />
             <div className="cardOverlay" />
             <div className="cardCaption"><span>DETAIL</span><strong>Precisie zit in de afwerking.</strong></div>
           </article>
