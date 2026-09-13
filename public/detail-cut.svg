@@ -1,0 +1,15 @@
+<svg width="900" height="980" viewBox="0 0 900 980" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="900" y2="980"><stop stop-color="#1D140D"/><stop offset=".55" stop-color="#0C0907"/><stop offset="1" stop-color="#050403"/></linearGradient><linearGradient id="g" x1="190" y1="250" x2="680" y2="720"><stop stop-color="#EBCA8D"/><stop offset=".5" stop-color="#A67232"/><stop offset="1" stop-color="#70431E"/></linearGradient></defs>
+<rect width="900" height="980" fill="url(#bg)"/>
+<circle cx="710" cy="190" r="210" fill="#B77B35" fill-opacity=".12"/>
+<path d="M72 910C108 708 216 580 386 530C526 489 671 531 790 657C838 708 872 792 892 910H72Z" fill="#090807"/>
+<path d="M160 662C177 516 267 394 399 343C499 304 617 323 698 399C631 375 567 376 509 396C417 427 349 492 314 590C272 589 219 615 160 662Z" fill="#171410"/>
+<path d="M213 610C270 449 403 349 551 362C615 368 671 394 710 440C654 417 600 416 550 430C444 459 368 536 339 648C303 645 261 632 213 610Z" fill="url(#g)" fill-opacity=".16"/>
+<path d="M344 637C343 694 367 739 410 770C457 804 515 813 566 793C619 772 655 727 665 672C674 623 663 570 634 533C602 493 555 473 505 478C449 483 402 516 373 565C354 596 344 617 344 637Z" fill="#A97959"/>
+<path d="M325 592C353 478 450 395 565 397C627 398 686 425 724 475C672 453 621 451 573 465C479 493 412 559 382 651C363 633 344 613 325 592Z" fill="#171411"/>
+<path d="M368 566C430 474 527 434 623 459C657 468 690 484 718 507C666 492 617 497 575 515C501 548 455 610 438 690C407 672 385 630 368 566Z" fill="#0D0C0A"/>
+<g transform="translate(120 160) rotate(-16)"><rect x="0" y="0" width="520" height="26" rx="13" fill="#D2AE72"/><path d="M52 26V74M92 26V74M132 26V74M172 26V74M212 26V74M252 26V74M292 26V74M332 26V74M372 26V74M412 26V74M452 26V74" stroke="#D2AE72" stroke-width="7" stroke-linecap="round"/></g>
+<g transform="translate(585 146) rotate(23)"><path d="M16 18L144 226" stroke="#D6B57A" stroke-width="16" stroke-linecap="round"/><path d="M111 10L17 194" stroke="#D6B57A" stroke-width="16" stroke-linecap="round"/><circle cx="13" cy="19" r="24" stroke="#D6B57A" stroke-width="10"/><circle cx="112" cy="10" r="24" stroke="#D6B57A" stroke-width="10"/></g>
+<path d="M0 874H900" stroke="#C99B54" stroke-opacity=".22"/>
+<text x="54" y="930" font-family="Arial,sans-serif" font-size="16" letter-spacing="8" fill="#CDA35F">PRECISION · PASSION · DETAIL</text>
+</svg>
